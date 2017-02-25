@@ -1,0 +1,11 @@
+name: dep
+description: install dep and execute ensure
+version: 0.0.1
+properties:
+  verbose:
+    type: string
+  update:
+    type: string
+  opt:
+    type: string
+
